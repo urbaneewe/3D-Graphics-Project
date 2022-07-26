@@ -1,0 +1,64 @@
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\PZ2.exe
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\GMap.NET.Core.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\App.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.CopyComplete
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.exe
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\PZ2.exe
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\GMap.NET.Core.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\App.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.csproj.CopyComplete
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.exe
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_2\Z2\PZ2\obj\Debug\PZ2.pdb

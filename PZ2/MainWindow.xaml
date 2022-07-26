@@ -1,0 +1,25 @@
+﻿<Window x:Class="PZ2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Viewport3D x:Name="viewport1" ClipToBounds="True" MouseWheel="viewport1_MouseWheel" MouseMove="viewport1_MouseMove" MouseDown="viewport1_MouseDown" MouseUp="viewport1_MouseUp"
+                    Margin="0,36,-0.4,-0.2" RenderTransformOrigin="0.5,0.5"  IsEnabled="True">
+
+            <Viewport3D.Camera>
+                <PerspectiveCamera Position="0,490,1250" LookDirection="0,-1,-2" />
+            </Viewport3D.Camera>
+
+        </Viewport3D>
+        <CheckBox x:Name="hideInactiveNetwork" VerticalContentAlignment="Center" Click="hideInactiveNetwork_Click" Content="Hide inactive network" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="26" Width="170"/>
+        <CheckBox x:Name="changeSwitchColor" VerticalContentAlignment="Center" Click="changeSwitchColor_Click" Content="Change switch color" HorizontalAlignment="Left" Margin="185,10,0,0" VerticalAlignment="Top" Height="26" Width="170"/>
+        <CheckBox x:Name="changeLineColor" VerticalContentAlignment="Center" Click="changeLineColor_Click" Content="Change line color" HorizontalAlignment="Left" Margin="360,10,0,0" VerticalAlignment="Top" Height="26" Width="170"/>
+        <CheckBox x:Name="hideAllLine" VerticalContentAlignment="Center" Click="hideAllLine_Click"  Content="Hide all line" HorizontalAlignment="Left" Margin="535,10,0,0" VerticalAlignment="Top" Height="26" Width="170"/>
+
+    </Grid>
+</Window>
